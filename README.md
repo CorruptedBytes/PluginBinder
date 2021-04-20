@@ -5,7 +5,7 @@ source.jar is the main soure. (not obfuscated)
 
 If you want to generate a obfuscated plugin delete the source.jar and rename the OBFUSCATED-Source.jar in source.jar
 
-The idea of the PluginBinder is not mine but Garkolm, I just reprogrammed the code as I did because the PluginBinder from Garkolym is no longer online.
+The idea of the PluginBinder is not mine but Garkolm, I just reprogrammed the code as I did because the PluginBinder from Garkolym is no longer online. (@DavAlbert)
 
 !! The website itself and the design do not belong to me !!
 
