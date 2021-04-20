@@ -16,6 +16,7 @@ Folder: **Plugin-SourceCode** is the main Plugin.
 ---------------------------------
 
 DO **NOT** DELETE THE _Website/files_ FOLDER BECAUSE IT IS REQUIERED TO BIND THE PLUGINS.
+
 IF THE FOLDER _Website/files_ NOT EXIST CREATE IT.
 
 ---------------------------------
