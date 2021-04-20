@@ -9,8 +9,9 @@ The idea of the PluginBinder is not mine but Garkolm, I just reprogrammed the co
 
 !! The website itself and the design do not belong to me !!
 
-Folder: **Website** is the generator of the Plugin
-Folder: **Plugin-SourceCode** is the main Plugin
+Folder: **Website** is the generator of the Plugin.
+
+Folder: **Plugin-SourceCode** is the main Plugin.
 
 ---------------------------------
 
