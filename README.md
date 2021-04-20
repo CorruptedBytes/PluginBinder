@@ -9,9 +9,12 @@ The idea of the PluginBinder is not mine but Garkolm, I just reprogrammed the co
 
 !! The website itself and the design do not belong to me !!
 
+Folder: **Website** is the generator of the Plugin
+Folder: **Plugin-SourceCode** is the main Plugin
+
 ---------------------------------
 
-DO NOT DELETE THE files FOLDER BECAUSE IT IS REQUIERED TO BIND THE PLUGINS
+DO **NOT** DELETE THE _files_ FOLDER BECAUSE IT IS REQUIERED TO BIND THE PLUGINS
 
 ---------------------------------
 
