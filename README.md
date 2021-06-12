@@ -1,5 +1,5 @@
 # PluginBinder
-This Plugin generator was made with PHP by ProgrammAlex.
+This Plugin generator was made with PHP by CorruptedBytes.
 
 source.jar is the main soure. (not obfuscated)
 
